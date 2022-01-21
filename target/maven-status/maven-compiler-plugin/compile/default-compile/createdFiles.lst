@@ -1,0 +1,4 @@
+com\maixuanviet\apache\velocity\servlet\ProductServlet.class
+com\maixuanviet\apache\velocity\model\Product.class
+com\maixuanviet\apache\velocity\servlet\LayoutServlet.class
+com\maixuanviet\apache\velocity\service\ProductService.class
